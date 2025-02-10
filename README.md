@@ -20,6 +20,6 @@ Aqui você vai criar uma pasta com o nome <strong>static</strong>
 
 3. <strong>pip install pytubefix</strong>
 
- <strong>py server ou python server dentendendo da sua versão do python</strong>
+4. <strong>py server ou python server dentendendo da sua versão do python</strong>
 
 pronto o codigo estará rodando.
